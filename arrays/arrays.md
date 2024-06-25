@@ -1,6 +1,6 @@
 # arrays_problems
 
-* ***duration :*** 4 days 
+* ***duration :*** 7 days (26/6 => 2/7)
 * ***problems number :*** 8 problems
 
 ### learning rescources
@@ -14,14 +14,6 @@
 6.	[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 7.	[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 
 8.	[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) 
-### codeforces problems
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
- 
+
+### code forces number
 ---------------
